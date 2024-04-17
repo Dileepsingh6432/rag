@@ -1,5 +1,7 @@
 langchain
 huggingface
 streamlit
+PyPDF2
+python-dotenv
 
 
